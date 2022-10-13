@@ -1,0 +1,17 @@
+Under Misc => Colors
+
+Texture Background	#5F5F5F		(95, 95, 95)
+Grid Background		#000000		(0, 0, 0)
+Grid Major		#408080		(64, 128, 128)
+Grid Minor		#404040		(64, 64, 64)
+Grid Major Small		N/A
+Grid Minor Small		N/A
+Grid Text			#CCCCCC		(204, 204, 204)
+Grid Block		#0000FF		(0, 0, 255)
+Default Brush		#FFFFFF		(255, 255, 255)
+Camera Background	#404040		(64, 64, 64)
+Selected Brush		#9FFF00		(159, 255, 0)
+Selected Brush (Camera)	#FF0000		(255, 0, 0)
+Clipper			#FF0000		(255, 0, 0)
+Active View name		#8000BF		(128, 0, 191)
+Detail Brush		#FF00FF		(255, 0, 255)

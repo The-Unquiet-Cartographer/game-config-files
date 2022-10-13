@@ -1,0 +1,12 @@
+Under Misc => Colors
+
+Background		#000000		(0, 0, 0)
+Vertices			#51A8FF		(81, 168, 255)
+Common Lines		#FFFFFF		(255, 255, 255)
+Action Lines		#BEFF9F		(190, 255, 159)
+Sound Lines		#8080FF		(128, 128, 255)
+Highlight			#FFAC00		(255, 172, 0)
+Selection			#FF4000		(255, 64, 0)
+Indications		#FFFF80		(255, 255, 128)
+Custom grid		#404040		(64, 64, 64)
+64 Block grid		#800080		(128, 0, 128)	

@@ -1,0 +1,57 @@
+#
+#	COLOURS
+#
+
+PUKE		#D3C570		(211, 197, 112)
+ORANGE		#FF9C00		(255, 156, 0)
+ORANGE ALT	#F57B00		(245, 123, 0)
+REDDISH		#DD1C4C		(221, 28, 76)
+PINK		#FF7AEE		(255, 122, 238)
+PURPLE		#954DC5		(149, 77, 197)
+SKY BLUE		#89DDE9		(137, 221, 233)
+DARK BLUE	#3362A4		(51, 98, 164)
+DARK DARK BLUE	#2F3852		(47, 56, 82)
+TURQUOISE	#009695		(0, 150, 149)
+PALE SEA GREEN	#7EA693		(126, 166 ,147)
+PALE SEA GREY	#7E93A6		(126, 147 ,166)
+LIGHT GREY	#CCCCCC		(204, 204, 204)
+GREYISH		#888A85		(136, 138, 133)
+OFF-BLACK	#392929		(57, 41, 41)
+BLACK		#000000		(0, 0, 0)
+
+
+#
+#	USAGE
+#	Under Tools => Options => Syntax Highlighting
+#
+
+Plain Text			GREY		DARK DARK BLUE
+Selected Text		OFF-BLACK	ORANGE ALT
+Selected Text (Inactive)	BLACK		PUKE
+Collapsed Text	
+Line Numbers		GREYISH		BLACK
+
+String			ORANGE
+Number			ORANGE
+
+Keyword (type)		PURPLE
+Keyword (selection)	TURQUOISE
+Keyword (iteration)		TURQUOISE
+Keyword (jump)		REDDISH
+
+User Types		DARK BLUE
+User Types (enums)	DARK BLUE
+User Types (interfaces)	DARK BLUE
+User Types (delegates)	DARK BLUE
+User Types (value types)	PINK
+User Types (type params)	DARK BLUE
+User Field Usage		LIGHT GREY
+User Field Decl.		LIGHT GREY
+User Property Usage	LIGHT GREY
+User Property Decl.		LIGHT GREY
+User Method Usage	PALE SEA GREEN
+User Method Decl.		SKY BLUE
+User Parameter Usage	LIGHT GREY
+User Parameter Decl.	LIGHT GREY
+User Variable Usage	LIGHT GREY 
+User Variable Decl.		LIGHT GREY

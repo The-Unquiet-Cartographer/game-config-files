@@ -1,0 +1,11 @@
+Super Metroid	Default	Custom	Xbox controller Input
+Shoot		X	B
+Jump		A	Y
+Dash		B	X	=> LT
+Item Select	Select	A	
+Item Cancel	Y	Select	=> B
+Angle Up		R	L
+Angle Down	L	R
+
+* Remember B & X are swapped on the Xbox controller.
+* If you want, you can swap A and Y easily now.
